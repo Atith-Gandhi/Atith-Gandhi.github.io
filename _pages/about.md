@@ -12,9 +12,9 @@ I am a recent undergraduate student from BITS, Pilani, where I received a B.E (H
 
 ## Education
 <img align="right" src="/files/figures/BITS/logo.png" height = 'auto' width = '80'>
-Birla Institute of Technology and Science Pilani 2017 – 2021
-**Bachelors of Engineering (Hons.) in Computer Science and Engineering (Grades: 9.18/10) **
-**Minor Degree in Data Science (Grade: 9.0/10) **  
+Birla Institute of Technology and Science Pilani 2017 – 2021 <br/>
+**Bachelors of Engineering (Hons.) in Computer Science and Engineering (Grades: 9.18/10)**
+**Minor Degree in Data Science (Grade: 9.0/10)**  
 
 
 
