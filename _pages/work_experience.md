@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Work Exprience"
+permalink: /work_experience/
+author_profile: true
+---
+
+
+{% include base_path %}
+
+<!--
+{% for post in site.work_experience reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+-->
+
