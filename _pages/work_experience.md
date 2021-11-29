@@ -14,19 +14,18 @@ author_profile: true
 {% endfor %}
 -->
 
-## Work Experience
-### Amazon
+## Amazon
 * *Software Development Engineer, Payment Products* <br/>
 Time: July 2021 - Present   
 Topics: Software Development, Network Security, Machine Learning, Self Organizing Maps, Neural Network Ensembles <br/>
 
-### Adobe
+## Adobe
 * *Research Intern, Illustrator Team* <br/>
 Time: May 2020 - July 2020
 Advisor: Dr. Tarun Beri, Dr. Matthew Fisher 
 Topics: Style Transfer, 2D Shape Vectorization, Deep Parametric Shapes, Conditional Adversarial Networks,
 
-### Walmart Global Tech
+## Walmart Global Tech
 * *Software Engineering Intern*  <br/>
 Time: Jan 2021 - May 2021
 Topics: Node, Material-UI, SQL, Spark, Web-Development
