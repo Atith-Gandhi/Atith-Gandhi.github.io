@@ -28,5 +28,6 @@ Topics: Style Transfer, 2D Shape Vectorization, Deep Parametric Shapes, Conditio
 
 ### Walmart Global Tech
 * *Software Engineering Intern*  <br/>
+Time: Jan 2021 - May 2021
 Topics: Node, Material-UI, SQL, Spark, Web-Development
 
