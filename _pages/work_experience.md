@@ -17,7 +17,7 @@ author_profile: true
 ## Amazon
 * *Software Development Engineer, Payment Products* <br/>
 Time: July 2021 - Present <br/>
-Topics: Software Development, Network Security, Machine Learning, Self Organizing Maps, Neural Network Ensembles <br/>
+Topics: Software Development, Network Security, Machine Learning <br/>
 
 ## Adobe
 * *Research Intern, Illustrator Team* <br/>
