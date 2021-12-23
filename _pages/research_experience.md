@@ -24,6 +24,6 @@ Keywords: BERT, DistilBert, Question-Answering, HCI, Web-Development<br/>
 ## Bitcoin Data Analytics
 *Professor Ashutosh Bhatia, SDN Lab, BITS Pilani* <br/>
 Time: April 2020 - Nov 2020 <br/>
-Created a spark-based framework for supporting large-size Bitcoin transaction graph data and did link prediction and graph embedding generation using Graph Convolution Neural Networks for suspect-community detection and transaction analysis <br/>
+* Created a spark-based framework for supporting large-size Bitcoin transaction graph data and did link prediction and graph embedding generation using Graph Convolution Neural Networks for suspect-community detection and transaction analysis <br/>
 Publication: "Bitcoin Data Analytics: Scalable techniques for transaction clustering and embedding generation," 2021 International Conference on COMmunication Systems & NETworkS (COMSNETS), 2021, pp. 1-6, doi: 10.1109/COMSNETS51098.2021.9352922 <br/>
 Keywords: Big Data, Spark, GraphNN, BlockChain, Clustering <br/>
