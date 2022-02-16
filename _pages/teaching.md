@@ -17,7 +17,7 @@ author_profile: true
 ### Teaching Assistant
 * *Course: Microprocessor & Interfacing* <br/>
 Conducted labs to teach programming in assembly language for the course of Microprocessor & Interfacing. <br/>
-Graded weekly lab tests.<br/>
+Also graded weekly lab tests.<br/>
 
 
 
